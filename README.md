@@ -60,27 +60,6 @@ Projeto desenvolvido para **aprendizado em Frontend**, prática de **CSS Grid**,
 
 ---
 
-## ▶️ Como Executar o Projeto
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/calculadora-stitch.git
-```
-
-2. Abra o arquivo **index.html** no navegador
-
----
-
-## 🌐 Publicar no GitHub Pages
-
-1. Vá em **Settings > Pages**
-2. Source: **Deploy from branch**
-3. Branch: **main / root**
-4. Salve e aguarde o link
-
----
-
 ## 📸 Preview
 
 ![Calculadora Stitch - Desktop](./preview/desktop.png)
