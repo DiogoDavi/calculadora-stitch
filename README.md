@@ -4,6 +4,12 @@ Uma **calculadora web responsiva** com tema inspirado no personagem **Stitch**, 
 
 ---
 
+## 🎯 Objetivo do Projeto
+
+Projeto desenvolvido para **aprendizado em Frontend**, prática de **CSS Grid**, responsividade e organização de código, podendo evoluir futuramente para **aplicativo Android (Play Store)**.
+
+---
+
 ## 🚀 Demonstração
 
 👉 (Opcional) Publique no **GitHub Pages** e coloque o link aqui.
@@ -72,12 +78,6 @@ git clone https://github.com/seu-usuario/calculadora-stitch.git
 2. Source: **Deploy from branch**
 3. Branch: **main / root**
 4. Salve e aguarde o link
-
----
-
-## 🎯 Objetivo do Projeto
-
-Projeto desenvolvido para **aprendizado em Frontend**, prática de **CSS Grid**, responsividade e organização de código, podendo evoluir futuramente para **aplicativo Android (Play Store)**.
 
 ---
 
